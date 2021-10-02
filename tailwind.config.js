@@ -15,7 +15,6 @@ module.exports = {
       },
       fontFamily: {
         sans: ['DM Sans', 'sans-serif'],
-        display: ['Raleway', 'sans-serif'],
       },
     },
     screens: Object.entries(breakpoints).reduce((obj, [key, value]) => {
